@@ -1,0 +1,46 @@
+{
+	"button": {
+		"cancel": "ሰርዝ",
+		"change_language": "ቋንቋ ቀይር",
+		"language": "ቋንቋ",
+		"save": "መዝግብ",
+		"delete": "አጥፋ",
+		"yes": "አዎ"
+	},
+	"common": {
+		"are_you_sure": "እርግጠኛ ኖት?",
+		"no_data": "ምንም የለም",
+		"pull_up_load": "pull up load",
+		"release_to_load_more": "release to load more",
+		"expense_date": "ወጪ የሆነበት ቀን",
+		"expense_reason": "ወጪ የሆነበት ምክንያት",
+		"write_expense_reason": "ወጪ የሆነበት ምክንያት ይጻፉ",
+		"expense_amount": "የወጪ መጠን",
+		"enter_expense_amount": "የወጪ መጠን ያስገቡ",
+		"expense": "ወጪ",
+		"date_picker": "ቀን መምረጫ",
+		"to": "እስከ",
+		"etb": "ብር",
+		"delete_expense": "ወጪው ይሰረዝ",
+		"expense_deleted_successfully": "ወጪው ተሰርዟል",
+		"expense_not_deleted": "ወጪው አልተሰረዘም",
+		"expense_category": "የወጪ ምድብ",
+		"expense_sum": "የወጪ ድምር",
+		"expense_category_name": "የወጪ ምድብ ስም",
+		"write_expense_category_name": "የወጪ ምድብ ስም ያስገቡ",
+		"delete_expense_category": "የወጪ ምድቡ ይሰረዝ",
+		"expense_category_not_deleted": "የወጪ ምድቡ አልተሰረዘም",
+		"expense_category_deleted_successfully": "የወጪ ምድቡ ተሰርዟል"
+	},
+	"language": {
+		"name": {
+			"en": "English",
+			"am": "አማርኛ"
+		},
+		"selected_message": "አሁን የተመረጠው ቋንቋ {language}",
+		"selection": {
+			"message": "እባክዎ ከዝርዝሩ ውስጥ ቋንቋ ይምረጡ",
+			"title": "የቋንቋ ምርጫ"
+		}
+	}
+}

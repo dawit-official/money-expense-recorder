@@ -1,0 +1,46 @@
+{
+	"button": {
+		"cancel": "Cancel",
+		"change_language": "Change Language",
+		"language": "Language",
+		"save": "Save",
+		"delete": "Delete",
+		"yes": "Yes"
+	},
+	"common": {
+		"are_you_sure": "Are you sure?",
+		"no_data": "No data",
+		"pull_up_load": "pull up load",
+		"release_to_load_more": "release to load more",
+		"expense_date": "Expense date",
+		"expense_reason": "Expense reason",
+		"write_expense_reason": "Write expense reason",
+		"expense_amount": "expense amount",
+		"enter_expense_amount": "Enter expense amount",
+		"expense": "Expense",
+		"date_picker": "Date Picker",
+		"to": "To",
+		"etb": "ETB",
+		"delete_expense": "Delete expense",
+		"expense_deleted_successfully": "Expense deleted successfully",
+		"expense_not_deleted": "Expense not deleted",
+		"expense_category": "Expense category",
+		"expense_sum": "Expense Sum",
+		"expense_category_name": "Expense category name",
+		"write_expense_category_name": "Write expense category name",
+		"delete_expense_category": "Delete expense category",
+		"expense_category_not_deleted": "Expense category not deleted",
+		"expense_category_deleted_successfully": "Expense category deleted successfully"
+	},
+	"language": {
+		"name": {
+			"en": "English",
+			"am": "አማርኛ"
+		},
+		"selected_message": "Currently selected language is {language}",
+		"selection": {
+			"message": "Please select a language from the list",
+			"title": "Language Selection"
+		}
+	}
+}
